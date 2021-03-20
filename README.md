@@ -1,2 +1,2 @@
 # ejemplossabado
- ejemplso de clase
+ ejemplos de clase
